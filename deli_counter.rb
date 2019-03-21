@@ -10,4 +10,6 @@ def line(x)
 end
 end
 
-def 
+def take_a_number(deli, name)
+  
+  
