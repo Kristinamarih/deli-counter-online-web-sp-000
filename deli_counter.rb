@@ -1,3 +1,3 @@
 def line(katz_deli)
-  katz_deli.each do 
+  katz_deli.each{
   
