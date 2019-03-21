@@ -1,5 +1,5 @@
 def line(katz_deli)
-  katz_deli.each do |place| 
+  katz_deli.each_with_index do |place| 
     if katz_deli.length == 0
       puts "The line is currently empty."
     else 
